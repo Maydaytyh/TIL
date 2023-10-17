@@ -4,9 +4,12 @@
 For recording the small things I picked up.
 
 ### Categories
-* [Mac](#Mac)
-* [Python](#python)
-* [Jupyter-notebook](#Jupyter-notebook)
+- [TIL](#til)
+    - [Categories](#categories)
+    - [Mac](#mac)
+    - [python](#python)
+    - [Jupyter-notebook](#jupyter-notebook)
+    - [Pytorch](#pytorch)
 
 ### Mac
 - [同一应用不同窗口间切换](mac/Switch-between-different-windows-of-the-same-application.md)
@@ -14,3 +17,6 @@ For recording the small things I picked up.
 
 ### Jupyter-notebook
 - [Jupyter-notebook 使用 args](jupyter-notebook/use-argparse-in-jupyter-notebook.md)
+
+### Pytorch
+- [当遇到严重的环境问题](pytorch/when-confronted-with-serious-environment-problem.md)
