@@ -24,3 +24,6 @@ For recording the small things I picked up.
 
 ### SSh
 - [免密登录远程主机](ssh/ssh-remote-without-entering-passwd.md)
+
+### Vscode
+- [添加第三方库路径](vscode/add-local-libiary-path.md)
