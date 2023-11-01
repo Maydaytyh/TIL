@@ -7,15 +7,15 @@ For recording the small things I picked up.
 - [TIL](#til)
     - [Categories](#categories)
     - [Mac](#mac)
-    - [python](#python)
+    - [Python](#python)
     - [Jupyter-notebook](#jupyter-notebook)
     - [Pytorch](#pytorch)
     - [SSh](#ssh)
 
 ### Mac
 - [同一应用不同窗口间切换](mac/Switch-between-different-windows-of-the-same-application.md)
-### python
-
+### Python
+- [Python运行中修改ddma](python/modify-python-file-when-running.md)
 ### Jupyter-notebook
 - [Jupyter-notebook 使用 args](jupyter-notebook/use-argparse-in-jupyter-notebook.md)
 
